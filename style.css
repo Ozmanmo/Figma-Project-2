@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100;200&family=Montserrat:wght@700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background: #f6f7f1;
+    width: 1366px;
+    height: 2600px;
+    overflow-y: scroll;
+}
+header{
+    position:absolute;
+    width: 100vw;
+    height: 768px;
+    left:0px;
+    top: 0px;
+    background:#29182e;
+    display: grid;
+}
+
+.fakebook{
+    position: absolute;
+    width: 214px;
+    height:60px;
+    left:66px;
+    top: 44px;
+    font-family:"Lexend Deca";
+    font-style:normal;
+    font-weight:500;
+    font-size: 32px;
+    display:flex;
+    align-items:center;
+    letter-spacing:0.15em;
+    text-transform:uppercase;
+    color: #f14c36;
+}
+.getstarted{
+    position: absolute;
+    width: 250px;
+    height: 60px;
+    left:1050px;
+    top:44px;
+    background:#f14c36;
+    border-radius: 50px;
+}
+
+.text {
+    position: absolute;
+    width: 167px;
+    height:20px;
+    left: 41px;
+    top:20px;
+    font-family: "Lexend and Deca";
+    font-style:normal;
+    font-size:15px;
+    line-height:20px;
+    letter-spacing:0.15em;
+    text-transform:uppercase;
+    color:#f6f7f1;
+    text-align: center;
+}
+
+.headerimg{
+    position: absolute;
+    width:639.18;
+    height:750px;
+    left: 900px;
+    top: 142px;
+}
+
+.connecting{
+    position: absolute;
+    width:784px;
+    height:48px;
+    left: 150px;
+    top:320px;
+    font-family: "Lexend and Deca";
+    font-style:normal;
+    font-weight:500;
+    font-size: 48px;
+    line-height:48px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #f6f7f1;
+}
+
+.htext{
+    position:absolute;
+    width:650px;
+    height:50px;
+    left: 150px;
+    top: 425px;
+    font-family:"Lexend and Deca";
+    font-style:normal;
+    font-weight:400;
+    font-size:20px;
+    line-height:25px;
+    color:#f6f7f1;
+}
+
+/* focused */
+
+.focused{
+    position:absolute;
+    width:1366px;
+    height:768;
+    left:0px;
+    top:768px;
+    background: #f6f7f1;
+}
+
+.classh2{
+    position:absolute;
+    width:500px;
+    height:100px;
+    left:1200px;
+    top:288px;
+    font-family:"Lexend and Deca";
+    font-style:normal;
+    font-weight:500;
+    font-size:40px;
+    line-height:50px;
+    display:flex;
+    align-items:center;
+    text-align:right;
+    letter-spacing:0.15em;
+    text-transform:uppercase;
+}
+
+.classp{
+    position:absolute;
+    width:650;
+    height:50px;
+    left:1200px;
+    top:429px;
+    font-family:"Lexend and Deca";
+    font-style:normal;
+    font-weight:400;
+    font-size:20px;
+    line-height:25px;
+    text-align:right;
+    color:#29182e
+}
+.phone{
+    position:absolute;
+    width:338px;
+    height:696px;
+    left:120px;
+    top:44px
+}
+
+/* platform */
+
+.platform1{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    height:40px;
+    left: 500px;
+    top: 1500px;
+    margin-top: 50px;
+    font-family:"Lexend and Deca";
+    font-style:normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: 0.15em;
+    text-transform:uppercase;
+    color: #29182e;
+}
+
+.container{
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    height: 768px;
+    width: 1366px;
+    top: 1500px;
+    left: 200px;
+    align-items: center;
+    box-sizing: border-box;
+
+}
+
+
+
+
